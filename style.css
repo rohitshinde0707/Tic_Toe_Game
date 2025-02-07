@@ -9,7 +9,7 @@ body {
   align-items: center;
   height: 100vh;
   font-family: 'Arial', sans-serif;
-  background-color: #d65fda;
+  background-color: #ffffff;
 }
 
 .container {
@@ -27,8 +27,9 @@ body {
 .cell {
   width: 100px;
   height: 100px;
-  background-color: #1e1d1d;
+  background-color: #555050;
   border: 2px solid #b1b1b1;
+  border-radius: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
